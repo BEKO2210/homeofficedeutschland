@@ -10,12 +10,12 @@ const jobs: Job[] = [
     title: 'AI-Native Cloud Infrastructure Generalist (m/f/d)',
     company: 'shopware AG',
     companyDescription:
-      'shopware AG ist ein fuhrender deutscher E-Commerce-Plattform-Anbieter aus Schoppingen. Die Open-Source-Plattform wird von tausenden Handlern weltweit genutzt.',
+      'shopware AG ist ein fuhrender deutscher E-Commerce-Plattform-Anbieter mit Hauptsitz in Schoppingen. Die Open-Source-Plattform wird von tausenden Handlern weltweit genutzt.',
     location: 'Deutschland (100% Remote)',
     type: 'vollzeit',
     remote: '100-remote',
     description:
-      'Werde Teil des Agentic Commerce Lab und baue KI-Infrastruktur fur E-Commerce der nachsten Generation. End-to-End Ownership von Konzept bis Produktion mit Fullstack-Infrastruktur und AI-Tooling.',
+      'Join the Agentic Commerce Lab startup team to build AI infrastructure. This role operates with end-to-end ownership from concept to production, requiring full-stack infrastructure expertise and comfort with emerging AI tooling. Du baust KI-Infrastruktur fur E-Commerce der nachsten Generation.',
     requirements: [
       'Erfahrung mit Cloud-Infrastruktur und Kubernetes',
       'Fullstack-Verstandnis (Backend & Frontend)',
@@ -42,12 +42,12 @@ const jobs: Job[] = [
     title: 'Senior AI Developer',
     company: 'TripleTen',
     companyDescription:
-      'TripleTen ist eine internationale EdTech-Plattform, die Karrierewechsler in Tech-Berufe ausbildet und auf KI-gestutzte Lernmethoden setzt.',
+      'TripleTen ist eine internationale EdTech-Plattform, die Karrierewechsler in Tech-Berufe ausbildet. Das Unternehmen setzt auf KI-gestutzte Lernmethoden.',
     location: 'Berlin (100% Remote)',
     type: 'vollzeit',
     remote: '100-remote',
     description:
-      'Entwickle KI-gestutzte Lern-Features, designe Backend-Services mit LLM-Integration, prototypisiere AI-Features und definiere KI-Verhalten in Produkten.',
+      'Build AI-driven learning features, design backend services integrating LLMs, prototype AI features, and define AI behavior in products. Du entwickelst KI-Features, die das Lernerlebnis von Tausenden verandern.',
     requirements: [
       'Erfahrung mit LLMs und AI/ML-Systemen',
       'Backend-Entwicklung (Python bevorzugt)',
@@ -71,7 +71,7 @@ const jobs: Job[] = [
   {
     id: '3',
     slug: 'senior-fullstack-developer-dedalus',
-    title: 'Senior Fullstack Developer (m/f/d) – Patient Portal',
+    title: 'Senior Fullstack Developer (m/f/d) Patient Portal',
     company: 'Dedalus',
     companyDescription:
       'Dedalus ist Europas großter Healthcare-IT-Anbieter und entwickelt Software fur Krankenhauser und Gesundheitseinrichtungen in uber 40 Landern.',
@@ -79,7 +79,7 @@ const jobs: Job[] = [
     type: 'vollzeit',
     remote: '100-remote',
     description:
-      'Entwickle und pflege Komponenten fur Healthcare-Anwendungen mit Fokus auf Installierbarkeit, Portabilitat und Skalierbarkeit des Patientenportals.',
+      'Senior development role creating and maintaining components for healthcare applications. Du entwickelst das Patientenportal weiter und arbeitest an installability, portability und scalability der Plattform.',
     requirements: [
       'Mehrjahrige Fullstack-Erfahrung',
       'Kenntnisse in modernen Web-Frameworks',
@@ -102,16 +102,16 @@ const jobs: Job[] = [
   },
   {
     id: '4',
-    slug: 'it-team-lead-paymentology',
+    slug: 'information-technology-team-lead-paymentology',
     title: 'Information Technology Team Lead',
     company: 'Paymentology',
     companyDescription:
-      'Paymentology ist ein globaler Cloud-basierter Zahlungsdienstleister, der Payment-Processing fur Banken und Fintechs in uber 60 Landern bereitstellt.',
+      'Paymentology ist ein globaler Cloud-basierter Zahlungsdienstleister, der Payment-Processing-Losungen fur Banken und Fintechs in uber 60 Landern bereitstellt.',
     location: 'Berlin (100% Remote)',
     type: 'vollzeit',
     remote: '100-remote',
     description:
-      'Leite das EUC-Team fur IT-Support und Endpoint Security. Implementiere Endpoint-Hardening, manage Microsoft 365 und koordiniere Device-Provisioning und Onboarding.',
+      'Lead the EUC team delivering IT support and endpoint security. Du ubernimmst die Fuhrung des IT-Teams, implementierst Endpoint-Security, managst Microsoft 365 und koordinierst das Device-Provisioning.',
     requirements: [
       'Erfahrung in IT-Teamleitung',
       'Kenntnisse in Endpoint Security und Microsoft 365',
@@ -134,7 +134,7 @@ const jobs: Job[] = [
   },
   {
     id: '5',
-    slug: 'ecommerce-growth-manager-capulet',
+    slug: 'e-commerce-growth-manager-capulet-jewelry',
     title: 'E-Commerce & Growth Manager – Shopify & Performance Marketing',
     company: 'CAPULET Jewelry',
     companyDescription:
@@ -143,7 +143,7 @@ const jobs: Job[] = [
     type: 'vollzeit',
     remote: '100-remote',
     description:
-      'Volle Verantwortung fur digitales Wachstum: Shop-Optimierung auf Shopify, Performance Marketing uber Meta und Google Ads, Analytics und CRM-Automatisierung mit Klaviyo.',
+      'Du ubernimmst die volle Verantwortung fur digitales Wachstum: Shop-Optimierung auf Shopify, Performance Marketing uber Meta und Google Ads, Analytics und CRM-Automatisierung mit Klaviyo.',
     requirements: [
       'Umfangreiche Shopify-Erfahrung',
       'Expertise in Performance Marketing (Meta & Google Ads)',
@@ -156,7 +156,7 @@ const jobs: Job[] = [
       'Eigenverantwortung und Gestaltungsfreiheit',
       'Wachsende D2C-Brand mit Potenzial',
       'Flexible Arbeitszeiten',
-      'Mitarbeiterrabatte',
+      'Mitarbeiterrabatte auf Schmuck',
     ],
     tags: ['Shopify', 'Google Ads', 'Meta Ads', 'E-Commerce', 'Klaviyo'],
     category: 'marketing',
@@ -166,7 +166,7 @@ const jobs: Job[] = [
   },
   {
     id: '6',
-    slug: 'marketing-werkstudent-solaredge',
+    slug: 'marketing-student-solaredge',
     title: 'Marketing Student (Werkstudent)',
     company: 'SolarEdge',
     companyDescription:
@@ -175,7 +175,7 @@ const jobs: Job[] = [
     type: 'teilzeit',
     remote: '100-remote',
     description:
-      'Unterstutze Marketing-Aktivitaten fur EU-Markte (DACH-Region): digitale Inhalte erstellen, Social-Media-Kanale managen, Events koordinieren und Marketingmaterialien ubersetzen.',
+      'Unterstutze die Marketing-Aktivitaten fur EU-Markte (DACH-Region). Du erstellst digitale Inhalte, managst Social-Media-Kanale, koordinierst Events und ubersetzt Marketingmaterialien.',
     requirements: [
       'Eingeschriebener Student im Bereich Marketing oder Kommunikation',
       'Sehr gute Deutsch- und Englischkenntnisse',
@@ -198,6 +198,38 @@ const jobs: Job[] = [
   },
   {
     id: '7',
+    slug: 'google-manager-seo-sea-geo-homeoffice',
+    title: 'Google Manager*in (SEO, SEA, GEO) im Homeoffice',
+    company: 'Tom Phillip Zenker Digital Marketing Agentur GmbH',
+    companyDescription:
+      'Die Tom Phillip Zenker Digital Marketing Agentur ist eine spezialisierte Performance-Marketing-Agentur, die KMUs bei Google Ads, SEO und digitalem Wachstum unterstutzt.',
+    location: 'Deutschlandweit (100% Remote)',
+    type: 'vollzeit',
+    remote: '100-remote',
+    description:
+      'Du managst SEO-, SEA- und GEO-Kampagnen fur unsere Kunden im Homeoffice. Verantwortung fur Strategie, Umsetzung und Reporting von Google-basierten Marketing-Maßnahmen.',
+    requirements: [
+      'Fundierte Erfahrung in SEO und Google Ads (SEA)',
+      'Kenntnisse in Google Analytics und Search Console',
+      'Erfahrung mit GEO-Marketing (Google Business Profile)',
+      'Datengetriebenes Arbeiten und Reporting',
+      'Sehr gute Deutschkenntnisse',
+    ],
+    benefits: [
+      '100% Homeoffice',
+      'Flexibles Arbeiten',
+      'Abwechslungsreiche Kundenprojekte',
+      'Weiterbildungsmoglichkeiten',
+      'Eigenverantwortliches Arbeiten',
+    ],
+    tags: ['SEO', 'Google Ads', 'SEA', 'Online Marketing', 'GEO'],
+    category: 'marketing',
+    applyUrl: 'https://www.arbeitnow.com/jobs/homeoffice',
+    postedAt: '2026-02-14T09:00:00Z',
+    featured: false,
+  },
+  {
+    id: '8',
     slug: 'product-design-manager-gitlab',
     title: 'Product Design Manager, Platforms & Plan',
     company: 'GitLab',
@@ -208,7 +240,7 @@ const jobs: Job[] = [
     remote: '100-remote',
     salary: { min: 130000, max: 200000, period: 'jahr' },
     description:
-      'Design-Leadership: Fuhre mehrere Designer auf der Enterprise-Plattform. Verantwortung fur UX-Delivery und Design-Strategie. GitLab ist Vorreiter fur Remote-First-Kultur.',
+      'Design-Leadership-Position: Du fuhrst mehrere Designer auf der Enterprise-Plattform und bist verantwortlich fur UX-Delivery und Design-Strategie. GitLab ist ein Vorreiter fur Remote-First-Kultur.',
     requirements: [
       'Mehrjahrige Erfahrung im Design-Management',
       'Fuhrungserfahrung mit Design-Teams',
@@ -231,7 +263,40 @@ const jobs: Job[] = [
     featured: true,
   },
   {
-    id: '8',
+    id: '9',
+    slug: 'personalized-ads-assessor-telus',
+    title: 'Personalized Internet Ads Assessor – German Speaker',
+    company: 'TELUS International',
+    companyDescription:
+      'TELUS International ist ein globaler Anbieter von digitalen Customer-Experience- und AI-Datenlosungen mit uber 75.000 Mitarbeitern weltweit.',
+    location: 'Deutschland (100% Remote)',
+    type: 'freelance',
+    remote: '100-remote',
+    salary: { min: 13, max: 16, period: 'stunde' },
+    description:
+      'Bewerte Online-Werbeanzeigen und prufe deren Relevanz. Du gibst Feedback zur sprachlichen und kulturellen Angemessenheit von personalisierten Ads fur den deutschen Markt.',
+    requirements: [
+      'Deutsch als Muttersprache',
+      'Wohnsitz in Deutschland',
+      'Erfahrung mit Internet-Nutzung und Online-Werbung',
+      'Analytisches Denken und Detailgenauigkeit',
+      'Eigener Computer und stabile Internetverbindung',
+    ],
+    benefits: [
+      'Vollstandig remote / Homeoffice',
+      'Freie Zeiteinteilung als Freelancer',
+      'Flexibler Nebenverdienst',
+      'Internationales Unternehmen',
+      'Langfristige Zusammenarbeit moglich',
+    ],
+    tags: ['Freelance', 'Deutsch', 'Ads', 'Bewertung', 'Homeoffice'],
+    category: 'sonstiges',
+    applyUrl: 'https://jobicy.com/jobs/139464-freelance-personalized-internet-ads-assessor-german-speaker-in-germany',
+    postedAt: '2026-02-15T10:00:00Z',
+    featured: false,
+  },
+  {
+    id: '10',
     slug: 'technical-account-manager-dach-solaredge',
     title: 'Technical Account Manager – DACH',
     company: 'SolarEdge',
@@ -241,7 +306,7 @@ const jobs: Job[] = [
     type: 'vollzeit',
     remote: '100-remote',
     description:
-      'Strategisches Account Management fur die DACH-Region. Hauptansprechpartner fur definierte Accounts, eskalierte Problemlosung, Service-Losungen entwickeln und Schulungen durchfuhren.',
+      'Strategisches Account Management fur die DACH-Region. Du bist Hauptansprechpartner fur definierte Accounts, lost eskalierte Probleme, entwickelst Service-Losungen und fuhrst Schulungen durch.',
     requirements: [
       'Erfahrung im Technical Account Management oder Pre-Sales',
       'Technisches Verstandnis (Photovoltaik/Elektronik von Vorteil)',
@@ -263,7 +328,7 @@ const jobs: Job[] = [
     featured: false,
   },
   {
-    id: '9',
+    id: '11',
     slug: 'solutions-architect-vercel',
     title: 'Solutions Architect',
     company: 'Vercel',
@@ -273,7 +338,7 @@ const jobs: Job[] = [
     type: 'vollzeit',
     remote: '100-remote',
     description:
-      'Technische Vertriebsrolle: Pre- und Post-Sales, AI- und Web-Application-Architekturen designen und Kunden als technischer Advisor uber den gesamten Lebenszyklus begleiten.',
+      'Technische Vertriebsrolle, die Pre- und Post-Sales umspannt. Du designst AI- und Web-Application-Architekturen und berast Kunden als technischer Advisor uber den gesamten Lebenszyklus.',
     requirements: [
       'Erfahrung mit Web-Architektur und Cloud-Deployment',
       'Kenntnisse in Next.js, React und modernen Frameworks',
@@ -295,17 +360,49 @@ const jobs: Job[] = [
     featured: false,
   },
   {
-    id: '10',
+    id: '12',
+    slug: 'partner-success-manager-fino',
+    title: 'Partner Success Manager – 100% Homeoffice',
+    company: 'fino data services GmbH',
+    companyDescription:
+      'fino data services ist ein Fintech aus Kassel, das KI-basierte Losungen fur die automatisierte Verarbeitung von Finanzdokumenten entwickelt.',
+    location: 'Kassel (100% Remote)',
+    type: 'vollzeit',
+    remote: '100-remote',
+    description:
+      'Als Partner Success Manager betreust du strategische Partner und Kunden. Du bist verantwortlich fur Onboarding, Beziehungsmanagement und die Weiterentwicklung von Partnerstrategien.',
+    requirements: [
+      'Erfahrung im Partner- oder Account Management',
+      'Verstandnis fur Fintech oder SaaS-Produkte',
+      'Starke Kommunikationsfahigkeiten auf Deutsch und Englisch',
+      'Strategisches Denken und Eigeninitiative',
+      'Erfahrung mit CRM-Systemen',
+    ],
+    benefits: [
+      '100% Homeoffice',
+      'Fintech-Umfeld mit innovativen Produkten',
+      'Eigenverantwortliches Arbeiten',
+      'Weiterbildungsmoglichkeiten',
+      'Team-Events',
+    ],
+    tags: ['Partner Management', 'Fintech', 'SaaS', 'B2B', 'CRM'],
+    category: 'vertrieb',
+    applyUrl: 'https://www.arbeitnow.com/jobs/homeoffice',
+    postedAt: '2026-02-14T08:00:00Z',
+    featured: false,
+  },
+  {
+    id: '13',
     slug: 'emea-sales-account-manager-nvidia',
     title: 'EMEA Sales Senior Account Manager – Smart Spaces',
     company: 'NVIDIA',
     companyDescription:
-      'NVIDIA ist der weltweit fuhrende Hersteller von GPUs und KI-Chips und treibt Innovationen in AI, Gaming, autonomes Fahren und Cloud Computing voran.',
+      'NVIDIA ist der weltweit fuhrende Hersteller von GPUs und KI-Chips. Das Unternehmen treibt Innovationen in AI, Gaming, autonomes Fahren und Cloud Computing voran.',
     location: 'Deutschland (100% Remote)',
     type: 'vollzeit',
     remote: '100-remote',
     description:
-      'Management strategischer Beziehungen mit europaischen Stadten und offentlichen Organisationen. Expansion der Adoption von AI und Digital-Twin-Losungen im offentlichen Sektor.',
+      'Fuhrungsrolle im Management strategischer Beziehungen mit europaischen Stadten und offentlichen Organisationen. Du expandierst die Adoption von AI und Digital Twin-Losungen im offentlichen Sektor.',
     requirements: [
       'Erfahrung im Enterprise Sales oder Key Account Management',
       'Kenntnisse im offentlichen Sektor / Smart City',
@@ -327,7 +424,7 @@ const jobs: Job[] = [
     featured: false,
   },
   {
-    id: '11',
+    id: '14',
     slug: 'ai-ops-engineer-just-add-ai',
     title: 'AI-Ops Engineer bei lector.ai',
     company: 'JUST ADD AI',
@@ -359,49 +456,17 @@ const jobs: Job[] = [
     featured: false,
   },
   {
-    id: '12',
-    slug: 'partner-success-manager-fino',
-    title: 'Partner Success Manager – 100% Homeoffice',
-    company: 'fino data services GmbH',
-    companyDescription:
-      'fino data services ist ein Fintech aus Kassel, das KI-basierte Losungen fur die automatisierte Verarbeitung von Finanzdokumenten entwickelt.',
-    location: 'Kassel (100% Remote)',
-    type: 'vollzeit',
-    remote: '100-remote',
-    description:
-      'Betreuung strategischer Partner und Kunden: Onboarding, Beziehungsmanagement und Weiterentwicklung von Partnerstrategien im Fintech-Umfeld.',
-    requirements: [
-      'Erfahrung im Partner- oder Account Management',
-      'Verstandnis fur Fintech oder SaaS-Produkte',
-      'Starke Kommunikationsfahigkeiten auf Deutsch und Englisch',
-      'Strategisches Denken und Eigeninitiative',
-      'Erfahrung mit CRM-Systemen',
-    ],
-    benefits: [
-      '100% Homeoffice',
-      'Fintech-Umfeld mit innovativen Produkten',
-      'Eigenverantwortliches Arbeiten',
-      'Weiterbildungsmoglichkeiten',
-      'Team-Events',
-    ],
-    tags: ['Partner Management', 'Fintech', 'SaaS', 'B2B', 'CRM'],
-    category: 'vertrieb',
-    applyUrl: 'https://www.arbeitnow.com/jobs/homeoffice',
-    postedAt: '2026-02-14T08:00:00Z',
-    featured: false,
-  },
-  {
-    id: '13',
+    id: '15',
     slug: 'kundenberater-kredit-homeoffice-smava',
     title: 'Kundenberater – Kreditabsicherung im Homeoffice (w/m/d)',
     company: 'Smava GmbH',
     companyDescription:
-      'Smava ist Deutschlands großtes Kreditvergleichsportal und vermittelt seit 2007 Kredite online. Das Unternehmen hat uber 500 Mitarbeiter mit Sitz in Berlin.',
+      'Smava ist Deutschlands großtes Kreditvergleichsportal und vermittelt seit 2007 Kredite online. Das Unternehmen hat uber 500 Mitarbeiter und seinen Sitz in Berlin.',
     location: 'Berlin (100% Remote)',
     type: 'vollzeit',
     remote: '100-remote',
     description:
-      'Telefonische Beratung von Kunden zu Kreditabsicherungen im Homeoffice. Vollstandige Einarbeitung und modernste Tools werden bereitgestellt. Auch fur Quereinsteiger geeignet.',
+      'Du berast Kunden telefonisch zu Kreditabsicherungen im Homeoffice. Vollstandige Einarbeitung und modernste Tools werden bereitgestellt. Auch fur Quereinsteiger geeignet.',
     requirements: [
       'Kommunikationsstarke und Freude am Kundenkontakt',
       'Gute Deutschkenntnisse in Wort und Schrift',
@@ -423,9 +488,9 @@ const jobs: Job[] = [
     featured: false,
   },
   {
-    id: '14',
+    id: '16',
     slug: 'projekt-management-remote-ripprich',
-    title: 'Projekt Management (Remote)',
+    title: 'Projekt Management (Remote oder im Buro)',
     company: 'Ripprich - Burodienstleistung',
     companyDescription:
       'Ripprich ist ein Dienstleistungsunternehmen aus Gorlitz, das Buro- und Projektmanagement-Services fur verschiedene Branchen anbietet.',
@@ -433,7 +498,7 @@ const jobs: Job[] = [
     type: 'vollzeit',
     remote: '100-remote',
     description:
-      'Organisation und Strukturierung interner und externer Kommunikation und Workflows. Termin- und Event-Management, Koordination der Zusammenarbeit mit Kunden und Kollegen komplett remote uber Zoom.',
+      'Organisiere und strukturiere interne und externe Kommunikation und Workflows. Du managst Termine, Events und koordinierst die Zusammenarbeit mit Kunden und Kollegen komplett remote uber Zoom.',
     requirements: [
       'Erfahrung im Projektmanagement',
       'Organisationstalent und strukturierte Arbeitsweise',
@@ -455,40 +520,8 @@ const jobs: Job[] = [
     featured: false,
   },
   {
-    id: '15',
-    slug: 'head-customer-service-refurbed',
-    title: 'Head of Customer Service Operations (f/m/x)',
-    company: 'refurbed',
-    companyDescription:
-      'refurbed ist Europas großter Online-Marktplatz fur refurbished Elektronik. Das Wiener Unternehmen ist in der DACH-Region und daruber hinaus aktiv.',
-    location: 'Remote (DACH)',
-    type: 'vollzeit',
-    remote: '100-remote',
-    description:
-      'Fuhrungsposition im Customer Service: Mehrere Teams managen mit Fokus auf Operational Excellence, datengetriebene Entscheidungen und Implementierung von KI-Automatisierung.',
-    requirements: [
-      '5+ Jahre Erfahrung im Customer Service Management',
-      'Fuhrungserfahrung mit mehreren Teams',
-      'Erfahrung mit KI-Automatisierung im Kundenservice',
-      'Datengetriebene Arbeitsweise',
-      'Fließendes Deutsch und Englisch',
-    ],
-    benefits: [
-      'Remote-Arbeit in der DACH-Region',
-      'Impact in der Nachhaltigkeitsbranche',
-      'Fuhrungsrolle mit Gestaltungsspielraum',
-      'Wachsendes Unternehmen',
-      'Moderne Tools und Technologien',
-    ],
-    tags: ['Customer Service', 'Fuhrung', 'AI', 'Operations', 'Nachhaltigkeit'],
-    category: 'kundenservice',
-    applyUrl: 'https://jobicy.com/jobs/139616-head-of-customer-service-operations-f-m-x',
-    postedAt: '2026-02-16T12:00:00Z',
-    featured: false,
-  },
-  {
-    id: '16',
-    slug: 'jr-ecommerce-analyst-skyve',
+    id: '17',
+    slug: 'jr-ecommerce-performance-analyst-skyve',
     title: 'Jr. E-Commerce Performance Analyst',
     company: 'SKYVE',
     companyDescription:
@@ -497,7 +530,7 @@ const jobs: Job[] = [
     type: 'freelance',
     remote: '100-remote',
     description:
-      'Monitoring von Amazon Performance-Metriken, Advertising-Optimierungen ausfuhren, Pricing- und Promotion-Tests managen, Listing-Experimente unterstutzen. Freelance mit Potenzial fur Vollzeit.',
+      'Monitor Amazon performance metrics, execute advertising optimizations, manage pricing and promotion testing, support listing experiments. Teilzeit-Freelance-Rolle mit Potenzial fur Vollzeit.',
     requirements: [
       'Grundverstandnis von E-Commerce und Amazon',
       'Analytisches Denken und Zahlenaffinitat',
@@ -519,68 +552,35 @@ const jobs: Job[] = [
     featured: false,
   },
   {
-    id: '17',
-    slug: 'ads-assessor-telus-international',
-    title: 'Personalized Internet Ads Assessor – German Speaker',
-    company: 'TELUS International',
-    companyDescription:
-      'TELUS International ist ein globaler Anbieter von digitalen Customer-Experience- und AI-Datenlosungen mit uber 75.000 Mitarbeitern weltweit.',
-    location: 'Deutschland (100% Remote)',
-    type: 'freelance',
-    remote: '100-remote',
-    salary: { min: 13, max: 16, period: 'stunde' },
-    description:
-      'Bewerte Online-Werbeanzeigen und prufe deren Relevanz. Feedback zur sprachlichen und kulturellen Angemessenheit von personalisierten Ads fur den deutschen Markt.',
-    requirements: [
-      'Deutsch als Muttersprache',
-      'Wohnsitz in Deutschland',
-      'Erfahrung mit Internet-Nutzung und Online-Werbung',
-      'Analytisches Denken und Detailgenauigkeit',
-      'Eigener Computer und stabile Internetverbindung',
-    ],
-    benefits: [
-      'Vollstandig remote / Homeoffice',
-      'Freie Zeiteinteilung als Freelancer',
-      'Flexibler Nebenverdienst',
-      'Internationales Unternehmen',
-      'Langfristige Zusammenarbeit moglich',
-    ],
-    tags: ['Freelance', 'Deutsch', 'Ads', 'Bewertung', 'Homeoffice'],
-    category: 'sonstiges',
-    applyUrl: 'https://jobicy.com/jobs/139464-freelance-personalized-internet-ads-assessor-german-speaker-in-germany',
-    postedAt: '2026-02-15T10:00:00Z',
-    featured: false,
-  },
-  {
     id: '18',
-    slug: 'founder-associate-neobim',
-    title: 'Founder Associate (Flexibel/Hybrid)',
-    company: 'neoBIM GmbH',
+    slug: 'head-customer-service-operations-refurbed',
+    title: 'Head of Customer Service Operations (f/m/x)',
+    company: 'refurbed',
     companyDescription:
-      'neoBIM entwickelt die nachste Generation von AI-Tools fur die Bau- und Immobilienbranche. Das Startup aus Karlsruhe verbindet KI mit Building Information Modeling.',
-    location: 'Karlsruhe (Hybrid/Remote)',
+      'refurbed ist Europas großter Online-Marktplatz fur refurbished Elektronik. Das Wiener Unternehmen ist in der DACH-Region und daruber hinaus aktiv.',
+    location: 'Remote (DACH)',
     type: 'vollzeit',
-    remote: 'hybrid',
+    remote: '100-remote',
     description:
-      'Arbeite direkt mit den Grundern an strategischen Projekten: Fundraising, Marktanalyse, Prozessoptimierung und Enterprise Sales. Maximale Lernkurve und Verantwortung in einem AI-Startup.',
+      'Fuhrungsposition im Customer Service: Du managst mehrere Teams mit Fokus auf Operational Excellence, datengetriebene Entscheidungen und Implementierung von KI-Automatisierung fur den Kundenservice.',
     requirements: [
-      'Starkes analytisches Denken',
-      'Erfahrung in Strategie, Consulting oder Startups',
-      'Interesse an AI und Bau-/Immobilienbranche',
-      'Sehr gute Deutsch- und Englischkenntnisse',
-      'Hands-on-Mentalitat und Eigeninitiative',
+      '5+ Jahre Erfahrung im Customer Service Management',
+      'Fuhrungserfahrung mit mehreren Teams',
+      'Erfahrung mit KI-Automatisierung im Kundenservice',
+      'Datengetriebene Arbeitsweise',
+      'Fließendes Deutsch und Englisch',
     ],
     benefits: [
-      'Flexibles Arbeiten (Remote & Buro)',
-      'Direkte Zusammenarbeit mit Grundern',
-      'Steile Lernkurve in einem AI-Startup',
-      'Beteiligung am Unternehmenserfolg moglich',
-      'Gestaltungsfreiheit von Tag 1',
+      'Remote-Arbeit in der DACH-Region',
+      'Impact in der Nachhaltigkeitsbranche',
+      'Fuhrungsrolle mit Gestaltungsspielraum',
+      'Wachsendes Unternehmen',
+      'Moderne Tools und Technologien',
     ],
-    tags: ['Startup', 'AI', 'Strategy', 'Founder', 'PropTech'],
-    category: 'beratung',
-    applyUrl: 'https://www.arbeitnow.com/jobs/companies/neobim-gmbh/founder-associate-flexibel-hybrid-nachste-generation-von-ai-tools-karlsruhe-3165',
-    postedAt: '2026-02-19T10:00:00Z',
+    tags: ['Customer Service', 'Fuhrung', 'AI', 'Operations', 'Nachhaltigkeit'],
+    category: 'kundenservice',
+    applyUrl: 'https://jobicy.com/jobs/139616-head-of-customer-service-operations-f-m-x',
+    postedAt: '2026-02-16T12:00:00Z',
     featured: false,
   },
 ]
@@ -645,6 +645,7 @@ export function filterJobs(filters: {
     result = result.filter((job) => job.remote === filters.remote)
   }
 
+  // Sort: featured first, then by date
   result.sort((a, b) => {
     if (a.featured && !b.featured) return -1
     if (!a.featured && b.featured) return 1
